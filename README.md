@@ -67,11 +67,9 @@ i. Train and test using features of GTD only.
 ii.Train and test using features of GTD and WHR combined.
 d. F-Measure should be used for performance evaluation.
 6. Classifiers 
-● You are required to use these classifiers:
+● use these classifiers:
 i. kNN
 ii. Decision Trees
 iii. Naive Bayes
 iv. SVM
 7. Results and Visualizations 
-a. Please use tables, graphs and plots whenever possible to present your results.
-b. Comment on the results of the 2 testing sets briefly.
